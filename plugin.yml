@@ -1,0 +1,7 @@
+name: Lighter
+main: Nerahikada\Lighter\Main
+version: 1.0.0
+api: 3.8.2
+load: POSTWORLD
+author: Nerahikada
+description: Lighter Plugin
